@@ -20,8 +20,8 @@ See http://testandcode.com/80 for the story.
 
 
 * Convert em
-    * `**something**` -> `<em>something</em>`
-    * `__something__`-> `<em>something</em>`
+    * `*something*` -> `<em>something</em>`
+    * `_something_`-> `<em>something</em>`
 
 * links
     * `[message](http://some.link.html "my title")`  
